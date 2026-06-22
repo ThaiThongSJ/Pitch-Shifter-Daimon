@@ -1,11 +1,10 @@
 {
   "blacklist": {
-    "8fed4d2784282fee37493059fe9d5dbd": "reason_v1",
-    "abc-xyz-id-khac": "reason_v2"
+    "8fed4d2784282fee37493059fe9d5dbd": "gian_lan_karaoke",
+    "abc-id-khac": "nghi_van_tamper"
   },
   "revokedKeys": {
     "KEY-123456": "refunded",
-    "KEY-987654": "leaked"
-  },
-  "version": 1 // Dùng để quản lý update thủ công
+    "KEY-ABC-789": "leaked"
+  }
 }
