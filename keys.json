@@ -1,9 +1,11 @@
 {
-  "blacklist": [
-    "",
-    "mã-md5-device-id-của-kẻ-gian-lận-bạn-muốn-khóa"
-  ],
-  "revokedKeys": [
-    "Mã-key-bị-lộ-hoặc-bị-khách-hoàn-tiền-bỏ-vào-đây-để-hủy-kích-hoạt"
-  ]
+  "blacklist": {
+    "8fed4d2784282fee37493059fe9d5dbd": "reason_v1",
+    "abc-xyz-id-khac": "reason_v2"
+  },
+  "revokedKeys": {
+    "KEY-123456": "refunded",
+    "KEY-987654": "leaked"
+  },
+  "version": 1 // Dùng để quản lý update thủ công
 }
