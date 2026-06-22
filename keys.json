@@ -1,0 +1,13 @@
+[
+  {
+    "deviceId": "chuỗi_hardware_device_id_32_ký_tự",
+    "keys": [
+      {
+        "key": "mã_token_base64_do_tool_sinh_ra",
+        "type": "yearly",
+        "expiry": 1811030400000,
+        "banned": false
+      }
+    ]
+  }
+]
