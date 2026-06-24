@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='ID_CUA_EXTENSION_O_DAY'>
+    <updatecheck codebase='https://domain-cua-ong.com/path/to/phien-ban-moi.crx' version='2.706.2038' />
+  </app>
+</gupdate>
