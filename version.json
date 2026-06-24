@@ -1,10 +1,16 @@
 {
   "latest_version": "2.706.2038",
+  "release_date": "2026-06-24",
   "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2036%20FINAL.rar",
   "announcement": {
-    "title": "Cập nhật mới đã sẵn sàng!",
-    "message": "Phiên bản này sửa lỗi và thêm tính năng mới, hãy tải về nhé!",
-    "youtube_link": "https://www.youtube.com/watch?v=daOsc7J92oM&list=RDdaOsc7J92oM&start_radio=1",
+    "title": "Đã có bản cập nhật 2.706.2038",
+    "message": "Bản cập nhật này mang đến trải nghiệm âm thanh mượt mà hơn:",
+    "changelog": [
+      "Sửa lỗi xung đột khi sử dụng Pitch Shifter.",
+      "Cải thiện độ ổn định khi phát YouTube liên tục.",
+      "Tăng cường chất lượng âm thanh HiFi AT2030."
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=daOsc7J92oM",
     "show_popup": true
   }
 }
