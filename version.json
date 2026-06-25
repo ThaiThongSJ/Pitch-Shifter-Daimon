@@ -1,15 +1,15 @@
 {
-  "latest_version": "2.706.2039",
+  "latest_version": "2.706.2040",
   "release_date": "2026-06-25",
-  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2039%20FINAL.rar",
+  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2040%20FINAL.rar",
   "announcement": {
-    "title": "Đã có bản cập nhật 2.706.2039",
-    "message": "Bản cập nhật này mang đến trải nghiệm âm thanh mượt mà hơn:",
+    "title": "Đã có bản cập nhật mới (V2.706.2040)",
+    "message": "Bản cập nhật này tái định nghĩa chất lượng âm thanh với hiệu suất vượt trội và độ ổn định tuyệt đối:",
     "changelog": [
-      "Bảng điều phối thông minh (Adjustment Multiplier Matrix).",
-      "Sửa lỗi xung đột khi sử dụng Pitch Shifter.",
-      "Chặn quảng cáo YouTube, YouTube NonStop.",
-      "Tăng cường chất lượng âm thanh HiFi AT2030."
+      "Tích hợp Bảng điều phối thông minh (Adjustment Multiplier Matrix).",
+      "Tối ưu hóa thuật toán, triệt tiêu hoàn toàn xung đột khi Pitch Shifter hoạt động.",
+      "Mở rộng tính năng nâng cao: Chặn quảng cáo YouTube & kích hoạt YouTube NonStop.",
+      "Nâng cấp bộ lọc HiFi AT2030, mang lại dải âm trong trẻo và chân thực đỉnh cao."
     ],
     "youtube_link": "https://www.youtube.com/watch?v=daOsc7J92oM",
     "show_popup": true
