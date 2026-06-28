@@ -1,14 +1,14 @@
 {
-  "latest_version": "2.706.2044",
+  "latest_version": "2.706.2045",
   "release_date": "2026-06-28",
-  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2044%20FINAL.zip",
+  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2045%20FINAL.zip",
   "announcement": {
-    "title": "Cập Nhật Siêu âm Thanh v2.706.2044",
+    "title": "Cập Nhật Siêu âm Thanh v2.706.2045",
     "message": "Nâng cấp đột phá hiệu năng và chất âm bộ lọc:",
     "changelog": [
-      "Lõi Zero-GC: Vận hành siêu mượt, giảm tải CPU tối đa.",
-      "Sửa lỗi Context Loss: Triệt tiêu hoàn toàn méo tiếng.",
       "YouTube NonStop: Chặn quảng cáo, phát mượt liên tục.",
+      "Lõi Zero-GC: Vận hành siêu mượt, giảm tải CPU tối đa.",
+      "Sửa lỗi Context Loss: Triệt tiêu hoàn toàn méo tiếng.",      
       "Đặc tuyến Hi-Fi AT2040: Chất âm trong suốt, ấm áp."
     ],
     "youtube_link": "https://www.youtube.com/watch?v=daOsc7J92oM",
