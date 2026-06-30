@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.706.2051",
-  "release_date": "2026-06-29",
+  "latest_version": "2.706.2054",
+  "release_date": "2026-06-30",
   "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/main/Pitch%20Shifter%20Daimon%20V2.607.2051%20FINAL.zip",
   "announcement": {
-    "title": "Bản Cập Nhật Định Kỳ v2.706.2051",
+    "title": "Bản Cập Nhật Định Kỳ v2.706.2054",
     "message": "Tối ưu hóa hiệu năng hệ thống và nâng cấp bộ lọc âm thanh (Audio Filter):",
     "changelog": [
       "Tích hợp Studio Equalizer Supreme (Thuật toán AI Matrix).",
