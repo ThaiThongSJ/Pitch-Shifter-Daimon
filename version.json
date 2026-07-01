@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.706.2057",
+  "latest_version": "2.706.2058",
   "release_date": "2026-07-01",
-  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/refs/heads/main/Pitch%20Shifter%20Daimon%20V2.607.2057PLUS%20FINAL.zip",
+  "download_url": "https://github.com/ThaiThongSJ/Pitch-Shifter-Daimon/raw/refs/heads/main/Pitch%20Shifter%20Daimon%20V2.607.2058%20FINAL.zip",
   "announcement": {
-    "title": "Cập Nhật Siêu âm Thanh v2.706.2057",
+    "title": "Cập Nhật Siêu âm Thanh v2.706.2058",
     "message": "Tối ưu hóa hiệu năng hệ thống và nâng cấp bộ lọc âm thanh (Audio Filter):",
     "changelog": [
       "Tích hợp Studio Equalizer Supreme (Thuật toán AI Matrix).",
@@ -11,7 +11,7 @@
       "Nâng cấp bộ lọc YouTube NonStop: Trải nghiệm phát mượt mà, không gián đoạn.",
       "Cấu hình độc quyền Audio-Technica AT2040 PureGenix V2: Tăng độ trong suốt (Transparency) và độ ấm của âm thanh."
     ],
-    "youtube_link": "https://www.youtube.com/watch?v=daOsc7J92oM",
+    "youtube_link": "https://www.youtube.com/watch?v=egz2kM0KiNg",
     "show_popup": true
   }
 }
