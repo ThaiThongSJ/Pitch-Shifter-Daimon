@@ -5,7 +5,7 @@
 > **Công cụ chuyên nghiệp kết hợp Pitch Shifter, Speed Control, HiFi Equalizer AI Matrix, và tính năng tạo Cover thông minh.**  
 > Mang đến trải nghiệm nghe nhạc - karaoke - remix đỉnh cao với chất lượng âm thanh tinh khiết nhờ công nghệ **HiFi AT2030**.
 
-**Tác giả:** Thái Thông (Hồng Minh)
+**Tác giả:** Thái Thông (VN)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## 🔧 LIÊN HỆ & HỖ TRỢ
 
-- **Tác giả:** Thái Thông (Hồng Minh)
+- **Tác giả:** Thái Thông (VN)
 - **Email:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 - **Ủng hộ dự án:**  
   `9898661918` • **Vietcombank** (NGUYỄN NGỌC THÁI THÔNG)
