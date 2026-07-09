@@ -9,6 +9,11 @@
 
 ---
 
+### 🎥 **Demo Trên YouTube**
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fgNlHcOxvxI)
+
+---
+
 ## ✨ TÍNH NĂNG NỔI BẬT
 
 - **Pitch Shifter Chính Xác:** Điều chỉnh cao độ ±12 semitone (hỗ trợ Semitone & Smooth)
