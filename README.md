@@ -14,7 +14,6 @@
 ---
 
 ## ✨ KEY FEATURES
-
 - **Precise Pitch Shifter**: Adjust pitch ±12 semitones (supports both Semitone & Smooth modes)
 - **Flexible Speed Control**: Range from 0.25x to 4x while preserving pitch (Time Stretch)
 - **HiFi Equalizer AI Matrix**: 8-band professional EQ + Real-time Dynamic EQ
@@ -27,7 +26,6 @@
 ---
 
 ## 🧠 ADVANCED TECHNOLOGY
-
 - **Jungle Audio Engine** – Real-time audio processing with Web Audio API
 - **Adaptive Dynamic EQ** – Automatically adjusts based on the current audio spectrum
 - **AI Sound Optimization** – Analyzes song structure (verse, chorus, drop...)
@@ -38,7 +36,6 @@
 ---
 
 ## 🎯 PREMIUM SOUND MODES
-
 | Mode                  | Main Characteristics                        | Best For                     |
 |-----------------------|---------------------------------------------|------------------------------|
 | **Warm**              | Deep, warm bass, soft treble                | Ballad, Acoustic, Jazz       |
@@ -53,7 +50,6 @@
 ---
 
 ## 📥 INSTALLATION GUIDE
-
 1. Download the extension source code and extract it
 2. Open **Chrome / Edge / Brave**
 3. Go to `chrome://extensions/` (or `edge://extensions/`)
@@ -64,7 +60,6 @@
 ---
 
 ## 📋 NOTES
-
 - Works best on **Chrome, Edge, and Brave**
 - Cover recording and some AI presets require full activation
 - After major YouTube updates, the extension may need updating
@@ -72,11 +67,15 @@
 ---
 
 ## 🔧 CONTACT & SUPPORT
-
 - **Author:** Thái Thông
 - **Email:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
-- **Support the Project:**
-  `9898661918` • **Vietcombank** (NGUYỄN NGỌC THÁI THÔNG)
+
+### 💰 Support the Project
+
+![Bank Support](bank.png)
+
+**Vietcombank Account**  
+`9898661918` — **NGUYỄN NGỌC THÁI THÔNG**
 
 ---
 
