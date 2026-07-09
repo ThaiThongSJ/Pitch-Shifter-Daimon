@@ -1,13 +1,13 @@
 # 🎵 **PITCH SHIFTER PRO V2.607.2071 FINAL**
 
-![Pitch Shifter Pro](unnamed.jpg)
+![Pitch Shifter Pro]
 
 **Bộ Chuyển Giọng & Xử Lý Âm Thanh Cao Cấp Cho YouTube**
 
 > Công cụ chuyên nghiệp kết hợp **Pitch Shifter**, **Speed Control**, **HiFi Equalizer AI Matrix** và tính năng **Tạo Cover** thông minh.  
 > Mang đến trải nghiệm nghe nhạc - karaoke - remix đỉnh cao với chất lượng âm thanh tinh khiết nhờ công nghệ **HiFi AT2030**.
 
-**Tác giả:** Thái Thông (Hồng Minh)
+**Tác giả:** Thái Thông
 
 ---
 
@@ -71,7 +71,7 @@
 
 ## 🔧 LIÊN HỆ & HỖ TRỢ
 
-- **Tác giả:** Thái Thông (Hồng Minh)
+- **Tác giả:** Thái Thông
 - **Email:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 - **Ủng hộ dự án:**  
   `9898661918` • **Vietcombank** (NGUYỄN NGỌC THÁI THÔNG)
