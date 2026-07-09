@@ -1,75 +1,77 @@
-# 🎵 PITCH SHIFTER PRO V2.607.2071 FINAL
+# 🎵 **PITCH SHIFTER PRO V2.607.2071 FINAL**
+
+![Pitch Shifter Pro](unnamed.jpg)
 
 **Bộ Chuyển Giọng & Xử Lý Âm Thanh Cao Cấp Cho YouTube**
 
-> **Công cụ chuyên nghiệp kết hợp Pitch Shifter, Speed Control, HiFi Equalizer AI Matrix, và tính năng tạo Cover thông minh.**  
+> Công cụ chuyên nghiệp kết hợp **Pitch Shifter**, **Speed Control**, **HiFi Equalizer AI Matrix** và tính năng **Tạo Cover** thông minh.  
 > Mang đến trải nghiệm nghe nhạc - karaoke - remix đỉnh cao với chất lượng âm thanh tinh khiết nhờ công nghệ **HiFi AT2030**.
 
-**Tác giả:** Thái Thông (VN)
+**Tác giả:** Thái Thông (Hồng Minh)
 
 ---
 
-## ✨ TÍNH NĂNG CỐT LÕI
+## ✨ TÍNH NĂNG NỔI BẬT
 
-- **Pitch Shifter Chính Xác:** Điều chỉnh cao độ giọng hát ±12 semitone (mượt hoặc theo cung)
+- **Pitch Shifter Chính Xác:** Điều chỉnh cao độ ±12 semitone (hỗ trợ Semitone & Smooth)
 - **Tốc Độ Linh Hoạt:** Từ 0.25x đến 4x, giữ nguyên cao độ (Time Stretch)
-- **HiFi Equalizer AI Matrix:** 8 dải tần Pro + Dynamic EQ thời gian thực
-- **AI Sound Profiles:** Hơn 10 preset thông minh (Karaoke, EDM, Vocal, Bass Heavy, Natural...)
-- **Tạo Cover Thông Minh:** Ghi lại toàn bộ video với pitch + profile hiện tại (chất lượng cao .webm)
-- **Bảo Vệ Nonstop:** Cơ chế mô phỏng tương tác người dùng để tránh video bị pause
-- **Giao Diện Đẹp & Đa Ngôn Ngữ:** Hỗ trợ tiếng Việt / English, theme Dark/Light
-- **Lưu Profile Cá Nhân:** Import/Export cấu hình JSON
+- **HiFi Equalizer AI Matrix:** 8 dải tần Pro + Dynamic EQ thích ứng thời gian thực
+- **AI Sound Profiles:** Hơn 10 preset thông minh (Karaoke, EDM, Vocal, Bass Heavy...)
+- **Studio Cover Export:** Ghi và tải file .webm chất lượng cao với pitch + profile hiện tại
+- **Nonstop Protection:** Mô phỏng tương tác người dùng, chống pause video
+- **Giao Diện Đẹp:** Hỗ trợ tiếng Việt / English, Dark/Light theme, Favorites & Profile lưu trữ
+- **Import/Export:** Sao lưu cấu hình JSON dễ dàng
 
 ---
 
 ## 🧠 CÔNG NGHỆ NỔI BẬT
 
-- **Jungle Audio Engine:** Xử lý âm thanh thời gian thực với Web Audio API
-- **Dynamic Adaptive EQ:** Tự động điều chỉnh theo phổ âm thanh đang phát
-- **AI Sound Optimization:** Phân tích cấu trúc bài hát (verse, chorus, drop...) để tối ưu
-- **Stealth Injection:** Tiêm trực tiếp vào trang YouTube (Main World)
-- **Anti-Crash & Memory Safe:** Tối ưu RAM, tránh leak khi ghi cover dài
-- **Room Correction Simulation:** Mô phỏng không gian nghe chuyên nghiệp
+- **Jungle Audio Engine** – Xử lý âm thanh thời gian thực với Web Audio API
+- **Adaptive Dynamic EQ** – Tự động điều chỉnh theo phổ âm thanh đang phát
+- **AI Sound Optimization** – Phân tích cấu trúc bài hát (verse, chorus, drop...)
+- **Stealth Main World Injection** – Tiêm trực tiếp, hiệu suất cao
+- **Anti-Crash & Memory Safe** – Tối ưu RAM, ổn định khi ghi cover dài
+- **Room Correction Simulation** – Mô phỏng không gian nghe chuyên nghiệp
 
 ---
 
 ## 🎯 CÁC CHẾ ĐỘ ÂM THANH CAO CẤP
 
-| Chế Độ              | Mô Tả                                                                 | Phù Hợp Với          |
-|---------------------|-----------------------------------------------------------------------|----------------------|
-| **Warm**            | Bass sâu, ấm áp, treble dịu nhẹ                                      | Ballad, Acoustic     |
-| **Bright**          | Treble sắc nét, chi tiết cao                                          | Pop, EDM, Dance      |
-| **Bass Heavy**      | Bass mạnh mẽ, uy lực                                                  | EDM, Hip-Hop, Trap   |
-| **Vocal**           | Giọng hát nổi bật, rõ lời                                             | Karaoke, Ballad      |
-| **Natural**         | Cân bằng hoàn hảo, âm thanh tự nhiên                                  | Tất cả thể loại      |
-| **Karaoke**         | Nhạc nền dịu, giọng hát nổi bật                                       | Karaoke              |
-| **AI Perfect Balance** | Tự động cân bằng thông minh                                        | Nghe nhạc đa thể loại|
-| **AI Karaoke Live** | Thích ứng theo thời gian thực                                         | Hát karaoke trực tiếp|
+| Chế Độ              | Đặc Điểm Chính                              | Phù Hợp Với                  |
+|---------------------|---------------------------------------------|------------------------------|
+| **Warm**            | Bass sâu, ấm áp, treble dịu nhẹ            | Ballad, Acoustic, Jazz       |
+| **Bright**          | Treble sắc nét, chi tiết cao                | Pop, EDM, Dance              |
+| **Bass Heavy**      | Bass mạnh mẽ, uy lực                        | EDM, Hip-Hop, Trap           |
+| **Vocal**           | Giọng hát nổi bật, rõ lời                   | Karaoke, Ballad, R&B         |
+| **Natural**         | Cân bằng hoàn hảo                           | Tất cả thể loại              |
+| **Karaoke Dynamic** | Nhạc nền dịu, giọng hát nổi bật             | Hát karaoke                  |
+| **AI Perfect Balance** | Tự động cân bằng thông minh              | Nghe nhạc đa thể loại        |
+| **AI Karaoke Live** | Thích ứng theo thời gian thực               | Hát live                     |
 
 ---
 
 ## 📥 HƯỚNG DẪN CÀI ĐẶT
 
-1. Tải mã nguồn extension về máy
-2. Mở Chrome / Edge / Brave
+1. Tải mã nguồn extension về máy và giải nén
+2. Mở **Chrome / Edge / Brave**
 3. Truy cập `chrome://extensions/` (hoặc `edge://extensions/`)
 4. Bật **Developer mode**
-5. Nhấn **"Load unpacked"** → Chọn thư mục chứa extension
-6. Extension sẽ tự động hoạt động trên YouTube
+5. Nhấn **"Load unpacked"** → Chọn thư mục chứa file `manifest.json`
+6. Ghim extension để dễ sử dụng
 
 ---
 
 ## 📋 LƯU Ý
 
 - Hoạt động tốt nhất trên **Chrome, Edge, Brave**
-- Một số tính năng nâng cao (Cover, AI EQ) cần kích hoạt bản đầy đủ
-- Sau khi YouTube cập nhật lớn, có thể cần cập nhật extension
+- Tính năng Cover & một số AI Preset yêu cầu kích hoạt đầy đủ
+- Sau khi YouTube cập nhật lớn, extension có thể cần được cập nhật lại
 
 ---
 
 ## 🔧 LIÊN HỆ & HỖ TRỢ
 
-- **Tác giả:** Thái Thông (VN)
+- **Tác giả:** Thái Thông (Hồng Minh)
 - **Email:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 - **Ủng hộ dự án:**  
   `9898661918` • **Vietcombank** (NGUYỄN NGỌC THÁI THÔNG)
