@@ -1,7 +1,5 @@
 # 🎵 **PITCH SHIFTER PRO V2.607.2071 FINAL**
 
-![Pitch Shifter Pro]
-
 **Bộ Chuyển Giọng & Xử Lý Âm Thanh Cao Cấp Cho YouTube**
 
 > Công cụ chuyên nghiệp kết hợp **Pitch Shifter**, **Speed Control**, **HiFi Equalizer AI Matrix** và tính năng **Tạo Cover** thông minh.  
