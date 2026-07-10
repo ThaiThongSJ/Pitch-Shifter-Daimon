@@ -113,5 +113,3 @@
 May your music always sound perfect ✨
 
 **Made with ❤️ for a better viewing experience**
-
-**Powered by Jungle Audio Engine + AJU Real-time Matrix**
