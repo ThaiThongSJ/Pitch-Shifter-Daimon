@@ -1,7 +1,7 @@
 # 🎵 **PITCH SHIFTER PRO V2.607.2074 FINAL**
 **Professional Voice Pitch Shifter & HiFi Audio Enhancer for YouTube**
 
-![Version](https://img.shields.io/badge/Version-14.9.16-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.607.2074-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-YouTube-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![App Preview](app.jpg)
@@ -111,5 +111,7 @@
 ---
 **Thank you for using Pitch Shifter Pro!**  
 May your music always sound perfect ✨
+
 **Made with ❤️ for a better viewing experience**
+
 **Powered by Jungle Audio Engine + AJU Real-time Matrix**
