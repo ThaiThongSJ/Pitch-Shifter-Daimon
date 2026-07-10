@@ -100,6 +100,8 @@
 - **Email:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 
 ### 💰 **Support Development**
+![Bank Support](bank.png)
+
 **Vietcombank Account**  
 `9898661918` — **NGUYỄN NGỌC THÁI THÔNG**
 
