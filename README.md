@@ -1,6 +1,8 @@
 # 🎵 **PITCH SHIFTER PRO V2.607.2074 FINAL**
 **Professional Voice Pitch Shifter & HiFi Audio Enhancer for YouTube**
-
+![Version](https://img.shields.io/badge/Version-14.9.16-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-YouTube-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![App Preview](app.jpg)
 
 > Advanced real-time audio processing extension that combines **Precision Pitch Shifting**, **Time-Stretching**, **HiFi AT2030 Audio Engine**, **Adaptive Dynamic EQ**, and **Intelligent Cover Recording**.  
